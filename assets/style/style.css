@@ -78,8 +78,8 @@ header .logo {
 }
 
 .button:hover {
-  background-color: white;
-  color: black;
+  background-color: var(--vermelho);
+  color: #fff;
 }
 
 .button i {
